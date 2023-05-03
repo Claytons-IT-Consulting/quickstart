@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://claytons-quickstart.netlify.app'
 languageCode = 'en-us'
 title = 'QuickStart Tutorial'
 theme = 'ananke'
